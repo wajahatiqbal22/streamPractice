@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040052202082",
+    "project_id": "stream-practice-7ab53",
+    "storage_bucket": "stream-practice-7ab53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040052202082:android:c40b7126aa64299c70bf3b",
+        "android_client_info": {
+          "package_name": "com.codvets.stream_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040052202082-k9uapv359basdsnpk5q72nj5cud0l98j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyDS5Nus76ECr5VlXF6f-ueUWKSMwZApQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040052202082-k9uapv359basdsnpk5q72nj5cud0l98j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
